@@ -1,0 +1,6 @@
+{
+  "name": "CODShield - COD Verification & RTO Reduction SaaS",
+  "description": "Automated WhatsApp, SMS & IVR Cash-on-Delivery verification platform for Shopify and WooCommerce merchants to cut RTO losses, score order risk, and boost delivery rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
